@@ -1,0 +1,9 @@
+.challenge-container {
+  height: auto;
+  min-height: 500px;
+}
+
+.items-container {
+  height: auto;
+  min-height: 300px;
+}
