@@ -5,7 +5,7 @@ import Footer from './components/footer/Footer';
 import Challenge from './components/challenge/Challenge';
 import Progress from './components/progess/Progress';
 import Tips from './components/tips/Tips';
-import Instructions from './components/instructions/instructions';
+import Instructions from './components/instructions/Instructions';
 import './App.css';
 import './style.css';
 
